@@ -1,0 +1,45 @@
+# Portfólio Pessoal - Ana Paula
+
+Este é o repositório do portfólio pessoal de Ana Paula, uma desenvolvedora de Sorocaba, SP, focada em criar experiências web modernas, escaláveis e projetos criativos unindo software e hardware. O site foi criado para apresentar as habilidades da desenvolvedora e exibir os seus principais projetos.
+
+## 🌍 Acesso ao Projeto
+
+Você pode visualizar o portfólio online e funcionando através do link abaixo:
+
+👉 **[Acessar Portfólio - Ana Paula](https://portifolioanapaula.vercel.app/)**
+
+## 🚀 Tecnologias Utilizadas
+
+O projeto foi construído utilizando tecnologias web nativas:
+* **HTML5:** Para a estruturação semântica do conteúdo.
+* **CSS3:** Para a estilização com design responsivo, utilizando CSS Grid e Flexbox, além de uma paleta de cores moderna em tons escuros e gradientes.
+* **JavaScript (Vanilla):** Responsável por toda a interatividade da página.
+
+## ✨ Funcionalidades
+
+* **Animações ao Rolar (Scroll):** Os elementos e cartões de projetos aparecem suavemente na tela à medida que o usuário rola a página, graças à implementação da API `IntersectionObserver`.
+* **Modais Interativos:** Uma janela pop-up (modal) dinâmica foi criada para exibir descrições completas dos projetos ao clicar no botão "Ler mais".
+* **Navegação Suave:** Transições fluidas ao clicar nos links do menu para rolar até as respectivas seções.
+
+## 💼 Projetos em Destaque
+
+O portfólio destaca os seguintes trabalhos desenvolvidos:
+* **RePensei:** Uma plataforma educacional de filosofia e sociologia (Full-Stack) construída com Python, Flask, SQLite e integração com a API do Gemini.
+* **EcoGame:** Jogo web educativo sobre ecologia e sustentabilidade, com um inovador sistema de interação via câmera para captura de movimentos.
+* **Landing Page AGROVANT:** Uma página focada em conversão para um drone de monitoramento agrícola, feita com HTML5, CSS3 e JavaScript.
+* **Blog Literário:** Um site institucional e blog dedicado ao autor André Neves.
+
+## 🛠️ Executando localmente
+
+Como o site não depende de frameworks complexos, rodá-lo localmente na sua máquina é muito simples:
+1. Faça o clone deste repositório na sua máquina.
+2. Navegue até a pasta do projeto clonado.
+3. Abra o arquivo `index.html` diretamente no seu navegador de preferência (Chrome, Firefox, Edge, etc.).
+
+## 📞 Contato
+
+Fique à vontade para entrar em contato ou acompanhar o meu trabalho nas redes sociais:
+* **GitHub:** [AnaPaulaMaximo](https://github.com/AnaPaulaMaximo)
+* **LinkedIn:** [anapaulamaximo](https://www.linkedin.com/in/anapaulamaximo/)
+* **E-mail:** [ap.maximo01@gmail.com](mailto:ap.maximo01@gmail.com)
+
