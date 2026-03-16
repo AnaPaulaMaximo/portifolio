@@ -15,12 +15,6 @@ O projeto foi construído utilizando tecnologias web nativas:
 * **CSS3:** Para a estilização com design responsivo, utilizando CSS Grid e Flexbox, além de uma paleta de cores moderna em tons escuros e gradientes.
 * **JavaScript (Vanilla):** Responsável por toda a interatividade da página.
 
-## ✨ Funcionalidades
-
-* **Animações ao Rolar (Scroll):** Os elementos e cartões de projetos aparecem suavemente na tela à medida que o usuário rola a página, graças à implementação da API `IntersectionObserver`.
-* **Modais Interativos:** Uma janela pop-up (modal) dinâmica foi criada para exibir descrições completas dos projetos ao clicar no botão "Ler mais".
-* **Navegação Suave:** Transições fluidas ao clicar nos links do menu para rolar até as respectivas seções.
-
 ## 💼 Projetos em Destaque
 
 O portfólio destaca os seguintes trabalhos desenvolvidos:
