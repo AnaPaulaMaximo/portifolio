@@ -15,13 +15,6 @@ O projeto foi construído utilizando tecnologias web nativas:
 * **CSS3:** Para a estilização com design responsivo, utilizando CSS Grid e Flexbox, além de uma paleta de cores moderna em tons escuros e gradientes.
 * **JavaScript (Vanilla):** Responsável por toda a interatividade da página.
 
-## 💼 Projetos em Destaque
-
-O portfólio destaca os seguintes trabalhos desenvolvidos:
-* **RePensei:** Uma plataforma educacional de filosofia e sociologia (Full-Stack) construída com Python, Flask, SQLite e integração com a API do Gemini.
-* **EcoGame:** Jogo web educativo sobre ecologia e sustentabilidade, com um inovador sistema de interação via câmera para captura de movimentos.
-* **Landing Page AGROVANT:** Uma página focada em conversão para um drone de monitoramento agrícola, feita com HTML5, CSS3 e JavaScript.
-* **Blog Literário:** Um site institucional e blog dedicado ao autor André Neves.
 
 ## 🛠️ Executando localmente
 
